@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "901607632130",
+    "firebase_url": "https://oovie-deef7.firebaseio.com",
+    "project_id": "oovie-deef7",
+    "storage_bucket": "oovie-deef7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901607632130:android:7077641ce136662d",
+        "android_client_info": {
+          "package_name": "com.youngsoft.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901607632130-d5detd0ik444nkei92jdip1vkj1u17ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTo-LYddCbtNaUCIhkG6gdoghbTyrRgiQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901607632130:android:4c10e857ba2b6263",
+        "android_client_info": {
+          "package_name": "com.youngsoft.ooviedevone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901607632130-d5detd0ik444nkei92jdip1vkj1u17ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTo-LYddCbtNaUCIhkG6gdoghbTyrRgiQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
